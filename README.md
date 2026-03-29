@@ -1,4 +1,4 @@
-# Hi, I'm Kingsley 👋
+# I'm Kingsley! 👋
 
 Systems Engineer based in Chicagoland area. Currently engineering systems around the world, deep in Linux, Kubernetes, databases, and everything else the stack throws at me. Most of all, I’m driven by curiosity... always learning, always leveling up!
 
@@ -43,8 +43,6 @@ Systems Engineer based in Chicagoland area. Currently engineering systems around
 - Studying for RHCSA with RHCE and CKA to follow
 - Expanding Ansible automation knowledge
 - Expanding Kubernetes knowledge
-
-## 🧰 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
