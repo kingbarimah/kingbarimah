@@ -1,6 +1,6 @@
 # I'm Kingsley! 👋
 
-Systems Engineer based in Chicagoland area. Currently engineering systems around the world, deep in Linux, Kubernetes, databases, and everything else the stack throws at me. Most of all, I’m driven by curiosity... always learning, always leveling up!
+Systems Engineer based in the Chicagoland area. Currently engineering systems around the world, deep in Linux, Kubernetes, databases, and everything else the stack throws at me. Most of all, I’m driven by curiosity... always learning, always leveling up!
 
 ## 🛠 What I work on day to day
 
